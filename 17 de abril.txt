@@ -1,3 +1,0 @@
-17/04 – Início do Desenvolvimento da ULA (Unidade Lógica e Aritmética)
-
-Na reunião do dia 17 de abril, iniciou-se o desenvolvimento da Unidade Lógica e Aritmética (ULA). Este módulo é responsável pela execução de operações aritméticas e lógicas fundamentais, constituindo o núcleo funcional do computador. A construção da ULA marca uma transição importante no projeto, passando da estrutura de armazenamento e controle para a capacidade efetiva de processamento de dados.
