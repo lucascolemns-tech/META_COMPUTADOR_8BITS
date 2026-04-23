@@ -1,0 +1,3 @@
+27/02 – Desenvolvimento Inicial do Módulo de Clock
+
+Na reunião do dia 27 de fevereiro, iniciou-se a implementação do módulo de clock do computador de 8 bits em protoboard. Este módulo é responsável pela sincronização de todas as operações sequenciais do sistema. Durante esta etapa, foram realizados testes iniciais de geração de sinal periódico, porém foram identificadas instabilidades no circuito, principalmente devido à indisponibilidade de componentes adequados e limitações na montagem. Dessa forma, o circuito não atingiu funcionamento confiável, sendo necessário retrabalho nas reuniões subsequentes.
