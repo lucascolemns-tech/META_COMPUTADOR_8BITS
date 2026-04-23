@@ -1,3 +1,0 @@
-06/03 – Discussão Técnica e Definição de Arquitetura
-
-Na reunião de 6 de março, o grupo realizou uma análise técnica do progresso do projeto e discutiu aspectos relacionados à arquitetura do sistema. Foi reafirmada a estratégia de desenvolvimento incremental em protoboard, com posterior migração para placas de circuito impresso (PCB). Também foram revisados os problemas encontrados no módulo de clock, definindo-se abordagens para correção e melhoria da estabilidade do sinal.
