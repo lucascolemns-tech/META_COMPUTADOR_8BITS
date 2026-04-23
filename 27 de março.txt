@@ -1,3 +1,0 @@
-27/03 – Refinamento do Contador em Nível de Abstração Superior
-
-Na reunião de 27 de março, o contador foi revisado com uma abordagem em maior nível de abstração. O projeto passou a considerar uma organização lógica mais estruturada, facilitando a compreensão do funcionamento global do circuito. Nessa etapa, foi desenvolvido um contador de 4 bits utilizando portas lógicas (OR, NAND) e flip-flops JK, resultando em um comportamento equivalente ao circuito integrado 74LS161. Essa implementação demonstrou a capacidade de reproduzir componentes comerciais a partir de lógica discreta.
