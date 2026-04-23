@@ -1,3 +1,0 @@
-13/03 – Finalização do Módulo de Clock
-
-Na reunião do dia 13 de março, o módulo de clock foi finalmente estabilizado e validado. Após ajustes nos componentes e na topologia do circuito, foi possível obter um sinal periódico consistente e confiável. A conclusão desta etapa foi fundamental, pois o clock é responsável por controlar a temporização de todos os elementos sequenciais, como registradores e contadores.
