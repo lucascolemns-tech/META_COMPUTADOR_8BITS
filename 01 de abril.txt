@@ -1,3 +1,0 @@
-01/04 – Implementação dos Registradores (A, B e de Instrução)
-
-Na reunião de 1º de abril, o foco foi a construção dos registradores A, B e do registrador de instrução. Esses elementos são responsáveis pelo armazenamento temporário de dados e instruções dentro da arquitetura do computador. A implementação envolveu a utilização de elementos sequenciais sincronizados pelo clock, garantindo o armazenamento e a transferência controlada de dados entre os módulos do sistema.
