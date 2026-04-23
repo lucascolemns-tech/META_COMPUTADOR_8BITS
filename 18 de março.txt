@@ -1,3 +1,0 @@
-18/03 – Implementação Inicial do Contador
-
-No dia 18 de março, iniciou-se a implementação do módulo contador. Este componente é essencial para a geração de sequências de estados no sistema, sendo utilizado, por exemplo, no controle de execução de instruções. A primeira versão do circuito apresentou falhas de funcionamento, não realizando a contagem corretamente. Isso exigiu uma análise mais detalhada das ligações e da lógica implementada, evidenciando a complexidade dos circuitos sequenciais.
