@@ -1,0 +1,14 @@
+24/05 – Discussão do Programa e Planejamento da Construção da ULA
+
+Na reunião online de 24 de maio, foram discutidas as possíveis aplicações que seriam implementadas no computador 
+desenvolvido pela equipe. 
+Entre as opções analisadas estavam os programas de Fibonacci com verificação de paridade e incremento/decremento. 
+Durante a discussão, foram levantadas limitações relacionadas à quantidade de registradores de saída, 
+à necessidade de comparações lógicas e à capacidade de memória disponível. Como alternativa, foi considerada a 
+ampliação da memória para 32 bytes, com consequente redução da quantidade de opcodes e busca por um novo programa mais adequado às características do sistema.
+
+Durante a reunião, também foi apresentada a ULA desenvolvida por Lucas, que demonstrou seu 
+funcionamento e explicou seus princípios básicos de operação. A ULA é responsável por executar operações aritméticas e lógicas entre os 
+dados armazenados nos registradores, constituindo um dos componentes centrais do computador. Por fim, foram discutidas as alternativas para a 
+construção física da ULA juntamente com os registradores A e B. Após a análise das opções disponíveis, concluiu-se que a utilização de uma 
+placa universal perfurada apresentava o melhor custo-benefício, apesar de demandar maior tempo de montagem.

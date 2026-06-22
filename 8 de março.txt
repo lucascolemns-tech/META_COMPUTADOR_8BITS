@@ -1,0 +1,8 @@
+08/05 – Expansão dos Registradores e Desenvolvimento da ULA
+
+Na reunião de 08 de maio, foi realizada a construção do segundo registrador do projeto. 
+Além disso, iniciou-se a substituição das conexões feitas com jumpers por fios rígidos, 
+visando aumentar a organização e a confiabilidade das montagens em protoboard. Paralelamente, 
+começaram os trabalhos de desenvolvimento da Unidade Lógica e Aritmética (ULA). Devido às dimensões do 
+circuito e às dificuldades de transporte do projeto completo, foi decidido que parte significativa dos testes e 
+da montagem da ULA seria realizada externamente, reduzindo a necessidade de deslocar toda a estrutura para as reuniões presenciais.

@@ -1,0 +1,10 @@
+12/05 – Definição das Responsabilidades da Equipe
+
+Na reunião de 12 de maio, 
+foram definidas as responsabilidades de cada 
+integrante para as próximas etapas do projeto. 
+Elias ficou encarregado do desenvolvimento do registrador de saída em protoboard, 
+enquanto Matheus assumiu a modelagem dos registradores na plataforma Altium. Arthur ficou 
+responsável pelo desenvolvimento dos circuitos MAR e RAM em Altium, e Gabriel pela implementação do MAR em protoboard. 
+Já Lucas ficou encarregado de finalizar a simulação completa do computador utilizando o software Logisim Evolution. 
+Essa divisão permitiu uma melhor distribuição das tarefas e maior eficiência no desenvolvimento do projeto.

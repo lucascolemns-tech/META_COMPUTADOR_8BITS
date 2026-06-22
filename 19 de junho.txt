@@ -1,0 +1,8 @@
+19/06 – Finalização da Montagem do Simulador de Barramento
+
+Na reunião de 19 de junho, foi concluída a montagem do simulador de barramento. Durante o processo, 
+foi identificado que a soldagem havia sido realizada no lado incorreto da placa, 
+exigindo correções em etapas posteriores. Além disso, foi constatado que uma chave DIP switch de 8 vias apresentou defeito físico e precisará ser 
+substituída para garantir o correto funcionamento do circuito.
+Apesar dos contratempos, a estrutura principal do simulador foi concluída com sucesso, mesmo assim, decidimos que faremos repetiremos o processo soldando do lado correto. 
+Também foi definido que, na próxima reunião, a equipe já contará com a placa de fenolite dupla face necessária para dar continuidade ao desenvolvimento do projeto.

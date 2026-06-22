@@ -1,0 +1,7 @@
+24/04 – Construção e Teste dos Registradores
+
+Na reunião de 24 de abril, os trabalhos foram direcionados para a construção dos registradores do computador. 	
+Foi montado um dos registradores em protoboard e realizados testes de integração com o contador de programa (Program Counter) e o circuito de clock. Inicialmente, 
+todas as conexões foram feitas utilizando jumpers, permitindo maior flexibilidade durante a fase de validação do circuito. Os testes demonstraram o 
+funcionamento correto do registrador, confirmando sua capacidade de armazenar e transferir dados conforme esperado. Essa etapa foi importante 
+para validar a arquitetura básica de armazenamento do sistema.

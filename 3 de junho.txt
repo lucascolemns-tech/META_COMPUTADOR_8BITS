@@ -1,0 +1,9 @@
+03/06 – Início da Fabricação do Simulador de Barramento
+
+Na reunião de 05 de junho, iniciou-se a fabricação do simulador de 
+barramento utilizando fenolite. Nessa etapa, foi realizado o processo de transferência térmica do circuito 
+impresso para a placa, utilizando prensa térmica para transferir o desenho da PCB. Durante o procedimento, 
+surgiram dificuldades decorrentes da utilização de uma placa de fenolite de face simples, enquanto o projeto havia sido 
+originalmente desenvolvido para uma placa de dupla face. Com o auxílio de Samuel, colaborador externo ao grupo, 
+foram realizadas as adaptações necessárias para permitir a continuidade do processo. Ao final da reunião, o circuito já havia sido transferido para a 
+fenolite, ficando definido que, para o circuito de clock, seria necessária a aquisição de uma placa de dupla face.
