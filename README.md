@@ -33,20 +33,15 @@ O projeto avançou dos testes modulares em protoboard para placas de circuito im
 
 Antes da fabricação das placas, os módulos foram montados e depurados em protoboard. Os registros mostram circuitos de teste e primeiras montagens com componentes, usados para verificar as ligações e o comportamento de cada bloco.
 
-
-
 | Registro | Registro |
 |:--:|:--:|
 | <img src="assets/processo/imagem_1_processo_computador8bits.jpg" alt="Protótipo, imagem 1" width="360"> | <img src="assets/processo/imagem_2_processo_computador8bits.jpg" alt="Protótipo, imagem 2" width="360"> |
 | <img src="assets/processo/imagem_3_processo_computador8bits.jpg" alt="Protótipo, imagem 3" width="360"> | <img src="assets/processo/imagem_4_processo_computador8bits.jpg" alt="Protótipo, imagem 4" width="360"> |
 | <img src="assets/processo/imagem_5_processo_computador8bits.jpg" alt="Protótipo, imagem 5" width="360"> |  |
 
-
 ### 2. Transferência do desenho e corrosão
 
 No processo registrado para o simulador de barramento, o desenho da PCB foi transferido para a fenolite com uma prensa térmica. A primeira tentativa usou placa de face simples, embora o desenho original previsse dupla face; a equipe fez adaptações para continuar. Depois, a corrosão removeu o cobre das áreas sem proteção e deixou as trilhas e ilhas do circuito. Segundo o relato da equipe, foi usada água oxigenada com ácido muriático, com acompanhamento dos técnicos do laboratório do CEFET-MG.
-
-
 
 | Registro | Registro |
 |:--:|:--:|
@@ -54,12 +49,9 @@ No processo registrado para o simulador de barramento, o desenho da PCB foi tran
 | <img src="assets/processo/imagem_8_processo_computador8bits.jpg" alt="Fabricação fenolite, imagem 8" width="360"> | <img src="assets/processo/imagem_9_processo_computador8bits.jpg" alt="Fabricação fenolite, imagem 9" width="360"> |
 | <img src="assets/processo/imagem_10_processo_computador8bits.jpg" alt="Fabricação fenolite, imagem 10" width="360"> |  |
 
-
 ### 3. Furação, soldagem e revisão
 
 Após a corrosão e a inspeção das trilhas, foram feitos furos para os terminais dos componentes e conexões. O diário também registra montagem e soldagem de componentes nas placas. Durante as revisões, a equipe identificou pontos como orientação de soldagem, footprint e conexões que exigiam correção; cada módulo era verificado antes de seguir para integração.
-
-
 
 | Registro | Registro |
 |:--:|:--:|
@@ -67,12 +59,9 @@ Após a corrosão e a inspeção das trilhas, foram feitos furos para os termina
 | <img src="assets/processo/imagem_13_processo_computador8bits.jpg" alt="Furação e montagem, imagem 13" width="360"> | <img src="assets/processo/imagem_14_processo_computador8bits.jpg" alt="Furação e montagem, imagem 14" width="360"> |
 | <img src="assets/processo/imagem_15_processo_computador8bits.jpg" alt="Furação e montagem, imagem 15" width="360"> | <img src="assets/processo/imagem_16_processo_computador8bits.jpg" alt="Furação e montagem, imagem 16" width="360"> |
 
-
 ### 4. Integração e testes do computador
 
 Com os módulos montados, os testes passaram a observar o funcionamento em conjunto. Os registros mostram a montagem extensa em protoboard e circuitos em operação, com sinais luminosos e displays indicando estados do sistema.
-
-
 
 | Registro | Registro |
 |:--:|:--:|
