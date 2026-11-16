@@ -77,8 +77,6 @@ Com os módulos montados, os testes passaram a observar o funcionamento em conju
 | Registro | Registro |
 |:--:|:--:|
 | <img src="assets/processo/imagem_17_processo_computador8bits.jpg" alt="Integração e testes, imagem 17" width="360"> | <img src="assets/processo/imagem_18_processo_computador8bits.jpg" alt="Integração e testes, imagem 18" width="360"> |
-| <img src="assets/processo/imagem_19_processo_computador8bits.jpg" alt="Integração e testes, imagem 19" width="360"> |  |
-
 
 ## Arquitetura e módulos
 
