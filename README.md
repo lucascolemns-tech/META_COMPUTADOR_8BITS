@@ -45,30 +45,15 @@ Os módulos foram verificados individualmente antes da integração, permitindo 
 
 ## Ferramentas
 
-- **Logisim Evolution** — projeto e simulação de circuitos digitais.
-- **Altium Designer** — desenvolvimento das placas de circuito impresso.
-- **Instrumentos de laboratório** — medição e análise dos sinais durante os testes.
+- **Logisim Evolution** : projeto e simulação de circuitos digitais.
+- **Altium Designer** : desenvolvimento das placas de circuito impresso.
+- **Instrumentos de laboratório** : medição e análise dos sinais durante os testes.
 
 ## Resultados
 
 Foi desenvolvido e testado um computador de 8 bits em protoboard, com módulos de memória, ULA, registradores, barramento e clock. A simulação auxiliou na validação dos circuitos antes da montagem física. Durante os testes, foram identificados e corrigidos problemas de temporização, alimentação e comunicação entre módulos, apoiando a integração do sistema.
 
 A construção proporcionou experiência prática em eletrônica digital, montagem, medição e depuração de circuitos, além de facilitar a compreensão de como as informações são armazenadas, processadas e transferidas.
-
-## Estrutura sugerida do repositório
-
-Organize os arquivos do projeto de acordo com os materiais efetivamente publicados. Uma estrutura possível é:
-
-```text
-.
-├── README.md
-├── simulacao/       # Arquivos do Logisim Evolution
-├── pcb/             # Projetos e arquivos de fabricação das placas
-├── documentacao/    # Diagramas, fotos e materiais técnicos
-└── referencias/     # Datasheets e referências complementares
-```
-
-> Os diretórios acima são uma sugestão de organização; inclua apenas arquivos que façam parte da versão publicada do projeto.
 
 ## Equipe
 
