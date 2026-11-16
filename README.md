@@ -114,22 +114,6 @@ Foi desenvolvido e testado um computador de 8 bits em protoboard, com módulos d
 
 A construção proporcionou experiência prática em eletrônica digital, montagem, medição e depuração de circuitos, além de facilitar a compreensão de como as informações são armazenadas, processadas e transferidas.
 
-## Estrutura sugerida do repositório
-
-Organize os arquivos do projeto de acordo com os materiais efetivamente publicados. Uma estrutura possível é:
-
-```text
-.
-├── README.md
-├── simulacao/       # Arquivos do Logisim Evolution
-├── pcb/             # Projetos e arquivos de fabricação das placas
-├── documentacao/    # Instruções, diário de bordo e tabela EEPROM
-└── assets/processo/ # Fotografias do processo e dos testes
-├── referencias/     # Datasheets e referências complementares
-```
-
-> Os diretórios acima são uma sugestão de organização; inclua apenas arquivos que façam parte da versão publicada do projeto.
-
 ## Equipe
 
 - Arthur Miguel Rodrigues Pereira
