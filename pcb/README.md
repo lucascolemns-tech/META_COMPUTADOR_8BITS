@@ -54,7 +54,7 @@ A fabricação da placa da memória RAM também ocorreu de maneira mais simples,
 
 ---
 
-## AMAR
+## MAR(Registrador de endereço de memória)
 
 Amar o projeto foi um dos mais difíceis pela grande variedade de componentes para e a dificuldade de realocar as trilhas. No entanto, a corrosão foi um sucesso, pois pensávamos que daria trabalho já que existe uma grande área de contato do cobre. No entanto, com a ferramenta de polar Eaglepor, isso se tornou mais fácil. No entanto, a placa não foi soldada, já que faltou-se componentes
 
